@@ -1,0 +1,35 @@
+ESPAÑOL
+
+⚠️ Este intento de estafa ha sido detectado y será reportado a las autoridades correspondientes.
+🚫 Abstente de enviar más mensajes. Estás siendo rastreado.
+
+❌ Estafa detectada. Tu número ha sido reportado.
+
+🔐 Alerta de seguridad: este número utiliza un sistema de protección contra estafas.
+Tu mensaje ha sido bloqueado y reportado automáticamente.
+
+📢 Este tipo de mensajes encajan en un patrón común de estafas.
+Si crees que esto fue un error, por favor revísalo. De lo contrario, serás reportado.
+
+⚠️ Sistema anti-estafa activado.
+Código de incidente: #SCM-409
+Tu mensaje será ignorado y reportado.
+
+
+ENGLISH
+
+⚠️ This scam attempt has been detected and will be reported to the relevant authorities.
+🚫 Stop sending messages. You are being tracked.
+
+❌ Estafa detectada. Tu número ha sido reportado.
+
+🔐 Security alert: this number uses anti-scam protection.
+Your message has been automatically blocked and reported.
+
+📢 This type of message matches a common scam pattern.
+If this was a mistake, please double-check. Otherwise, you will be reported.
+
+⚠️ Anti-scam system triggered.
+Incident code: #SCM-409
+Your message will be ignored and reported.
+
